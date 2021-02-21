@@ -1,0 +1,41 @@
+#-------------------------------
+# General Site Settings
+title: Marco Aurélio Barbosa
+logo: logo.svg # You can add own logo.
+description: Blog pessoal e profissional de Marco Aurélio Barbosa.
+
+#-------------------------------
+# Author Settings
+author:
+  name: Marco Aurélio A. Barbosa
+  image: capa.jpg
+  say-hello: <strong>Marco Aurélio Barbosa</strong>
+  bio: Professor da Universidade de Brasília, físico e pesquisador; nas horas vagas estou paternando, cozinhando, pedalando ou correndo pela cidade. <br> Este é meu blog profissional e pessoal!
+
+#-------------------------------
+# Contact links
+twitter:  # Add your Twitter handle
+facebook: # Add your Facebook handle
+dribbble: # Add your Dribbble handle
+instagram: https://instagram.com/marcoaurelioalvesbarbosa/ # Add your Instagram handle
+pinterest: https://br.pinterest.com/aureliobarb3672/ # Add your Pinterest handle  
+github: https://github.com/aureliobarbosa/   # TODO: Incluir github
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile:  # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

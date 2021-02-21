@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Introdução à linguagem Markdown!"
+date:   2021-02-19 14:0:00 -0300
+image: markdown.png
+tags: markdown introdução
+---
+
+Olá pessoal! 
+
+A primeira vez que tive contato com a linguagem de formatação de textos Markdown foi no ano de 2017, enquanto estava
+descobrindo como utilizar os Jupyter notebooks para atualizar meu processo de criação de código computacional para 
+pesquisa científica. 
+
+Naquela época escrevi uma pequena introdução ao Markdown par aprender a utiliza-la. 
+O resultado foi positivo para mim e venho utilizando muito, nos Jupyter Notebooks e, agora, 
+também para editar postagens do blog usando o gerador de websites estáticos [Jekyll][jekyll-website].
+
+Imagino que possa ajudar outras pessoas... então fiz uma pequena revisão e estou compartilhando, logo abaixo.
+
+---
+### Introdução à Linguagem Markdown
+---
+
+O formato Markdown foi criado em 2004 por John Grueber e Aaron Schwartz para uso em fóruns, wikis, manuais de software, entre outros contextos, de forma que os usuários possam introduzir a formatação de maneira simples, rápida e elegante, sem comprometer a legibilidade do texto Markdown puro, *i.e.*, antes de processamento gráfico ou conversão em HTML. Elaborei este pequeno tutorial para apresentar a linguagem para alunos de cursos básicos de computação e simulação computacional (também com o intuito de melhorar meus conhecimentos acerca do formato).
+
+Somente vou indicar brevemente alguns recursos do Markdown, a título de ilustração. Os recursos mais básicos do formato podem ser encontrados aqui
+[aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines) e uma boa descrição está na [Wikipedia](https://en.wikipedia.org/wiki/Markdown). Aspectos mais avançados e extensões podem ser encontrados [neste post GitHub](https://github.com/mundimark/awesome-markdown).
+
+#### Título
+
+ São criados usando **cerquilhas**, \#, como abaixo: 
+```
+# Título 1
+## Título 2
+### Título 3
+```
+que produz o seguinte resultado:
+
+# Título 1
+## Título 2
+### Título 3
+
+#### 2.1.2 Formatação: negrito e itálico
+
+É muito fácil deixar um texto em negrito ou itálico, basta abrir e fechar o texto com um ou dois asteriscos, como abaixo:
+
+```
+ *Texto em Itálico* 
+ **Texto em negrito**
+```
+
+*Texto em Itálico*  
+**Texto em negrito**
+
+
+#### Citações
+ 
+Você pode utilizar crases para marcar uma citação ao longo do texto. Por exemplo, Einstein costuma dizer que `Deus não joga dados!`, que pode ser obtida da seguinte forma:
+
+```
+Einstein costuma dizer que `Deus não joga dados!`
+```
+
+O trecho acima é um bloco de citação que pode ser construído utilizando-se três crases, da seguinte maneira
+
+>\`\`\`   
+> Einstein costuma dizer que \`Deus não joga dados!\`       
+>\`\`\`     
+
+Note que eu usei um esquema diferente (não consegui descobrir como citar três crases em uma citação! Se alguém souber, me avise.). Você também pode  uma citação em um bloco de texto utilizando \>, como feito acima, utilizando o caracter \>, como abaixo:
+
+`> Citação em bloco de texto.`
+
+> Citação em bloco de texto.
+
+---
+
+Bem, por enquanto é isso, até breve!
+
+Marco
+
+[jekyll-website]:https://jekyllrb.com/

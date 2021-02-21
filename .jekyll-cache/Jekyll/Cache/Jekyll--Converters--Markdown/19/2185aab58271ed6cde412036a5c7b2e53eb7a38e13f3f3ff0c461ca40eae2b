@@ -1,0 +1,75 @@
+I"�<p>Olá pessoal!</p>
+
+<p>A primeira vez que tive contato com a linguagem de formatação de textos Markdown foi no ano de 2017, enquanto estava
+descobrindo como utilizar os Jupyter notebooks para atualizar meu processo de criação de código computacional para 
+pesquisa científica.</p>
+
+<p>Naquela época escrevi uma pequena introdução ao Markdown par aprender a utiliza-la. 
+O resultado foi positivo para mim e venho utilizando muito, nos Jupyter Notebooks e, agora, 
+também para editar postagens do blog usando o gerador de websites estáticos <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+
+<p>Imagino que possa ajudar outras pessoas… então fiz uma pequena revisão e estou compartilhando, logo abaixo.</p>
+
+<hr />
+<h3 id="introdução-à-linguagem-markdown">Introdução à Linguagem Markdown</h3>
+<hr />
+
+<p>O formato Markdown foi criado em 2004 por John Grueber e Aaron Schwartz para uso em fóruns, wikis, manuais de software, entre outros contextos, de forma que os usuários possam introduzir a formatação de maneira simples, rápida e elegante, sem comprometer a legibilidade do texto Markdown puro, <em>i.e.</em>, antes de processamento gráfico ou conversão em HTML. Elaborei este pequeno tutorial para apresentar a linguagem para alunos de cursos básicos de computação e simulação computacional (também com o intuito de melhorar meus conhecimentos acerca do formato).</p>
+
+<p>Somente vou indicar brevemente alguns recursos do Markdown, a título de ilustração. Os recursos mais básicos do formato podem ser encontrados aqui
+<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines">aqui</a> e uma boa descrição está na <a href="https://en.wikipedia.org/wiki/Markdown">Wikipedia</a>. Aspectos mais avançados e extensões podem ser encontrados <a href="https://github.com/mundimark/awesome-markdown">neste post GitHub</a>.</p>
+
+<h4 id="título">Título</h4>
+
+<p>São criados usando <strong>cerquilhas</strong>, #, como abaixo:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Título 1
+## Título 2
+### Título 3
+</code></pre></div></div>
+<p>que produz o seguinte resultado:</p>
+
+<h1 id="título-1">Título 1</h1>
+<h2 id="título-2">Título 2</h2>
+<h3 id="título-3">Título 3</h3>
+
+<h4 id="212-formatação-negrito-e-itálico">2.1.2 Formatação: negrito e itálico</h4>
+
+<p>É muito fácil deixar um texto em negrito ou itálico, basta abrir e fechar o texto com um ou dois asteriscos, como abaixo:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> *Texto em Itálico* 
+ **Texto em negrito**
+</code></pre></div></div>
+
+<p><em>Texto em Itálico</em><br />
+<strong>Texto em negrito</strong></p>
+
+<h4 id="citações">Citações</h4>
+
+<p>Você pode utilizar crases para marcar uma citação ao longo do texto. Por exemplo, Einstein costuma dizer que <code class="language-plaintext highlighter-rouge">Deus não joga dados!</code>, que pode ser obtida da seguinte forma:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Einstein costuma dizer que `Deus não joga dados!`
+</code></pre></div></div>
+
+<p>O trecho acima é um bloco de citação que pode ser construído utilizando-se três crases, da seguinte maneira</p>
+
+<blockquote>
+  <p>``` <br />
+Einstein costuma dizer que `Deus não joga dados!`     <br />
+```</p>
+</blockquote>
+
+<p>Note que eu usei um esquema diferente (não consegui descobrir como citar três crases em uma citação! Se alguém souber, me avise.). Você também pode  uma citação em um bloco de texto utilizando &gt;, como feito acima, utilizando o caracter &gt;, como abaixo:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Citação em bloco de texto.</code></p>
+
+<blockquote>
+  <p>Citação em bloco de texto.</p>
+</blockquote>
+
+<hr />
+
+<p>Bem, por enquanto é isso, até breve!</p>
+
+<p>Marco</p>
+
+:ET
