@@ -7,21 +7,22 @@ tags:  divulgação água
 ---
 Olá pessoal!
 
-Há algum tempo meus colegas Leonardo e Olavo, professores do Instituto de Física da UnB, me pediram para escrever um pequeno 
-texto explicando porque a água é um líquido tão especial, para enriquecer o livro 
-"Física para Ciências Agrárias e Ambientais" que eles estavam escrevendo.
+Há algum tempo meus colegas Leonardo Luiz e Castro e Olavo Leopoldino da Silva Filho, professores do Instituto de Física da UnB, me pediram para escrever um pequeno 
+texto explicando porque a água é um líquido tão especial, pois queriam enriquecer o livro 
+"Física para Ciências Agrárias e Ambientais" que eles estavam escrevendo, com textos complementares escritos por professores
+especialistas em suas respectivas áreas e aqui em Brasília sempre me dizem que eu sou o especialista em água! ;-)
 
-Acabei escrevendo o texto "Água e Vida", que aparece na página 270 do livro deles, que foi publicado pela Editora UnB! O livro está disponível para 
-acesso gratuito, podendo ser baixado neste [aqui][fisica-agraria-ambiental]. Em breve vou fazer uma postagem específica
-divulgando o livro deles que ficou muito interessante, considerando o texto ficou ao mesmo tempo escrito e contextualizado 
-com tópicos e exercícios nas áreas agrária e de meio ambiente.
+Eles me inspiraram e escrevi um pequeno texto, "Água e Vida". O livro dos meus colegas foi publicado pela Editora UnB e 
+o seu download pode ser feito gratuitamente através deste link [aqui][fisica-agraria-ambiental]. 
 
-<!-- Vou puxar a sardinha para os meus colegas da Universidade de Brasília. Leonardo foi meu colega de graduação 
-comigo e fizemos parte da primeira turma de formandos do (hoje extingo) curso de Física Computacional. Já o 
-prof. Olavo foi meu professor de Física 1 (?!) quando entrei na UnB e também cursei com ele várias disciplinas.
-Conheço o trabalho dos dois e conheço o comprometimento deles com um ensino de qualidade. O que vocês irão encontrar neste 
-livro é um dos primeiros, senão o primeiro, texto de física básica em nível superior visando atender as demandas e as 
-necessidades dos estudantes de agronomia e engenharia ambiental.  -->
+Em breve vou fazer uma postagem específica divulgando o livro deles que ficou muito interessante, considerando o texto 
+ficou ao mesmo tempo escrito e contextualizado com tópicos e exercícios nas áreas agrária e de meio ambiente. 
+Conhecendo o contexto em que vivemos na Brasil e na América Latina, acredito que disponibilizar materiais educacionais 
+com qualidade e de forma gratuita é uma estratégia necessária para melhorar o acesso dos nossos estudantes à informação. 
+Agradeço ao Leonardo e ao Olavo pelo convite e louvo a a Editora UnB por disponibilizar livros digitais em sua página!
+Acho que esse é um passo no caminho certo! 
+
+Segue o meu texto!
 
 ***
 
@@ -38,7 +39,7 @@ decompõe nos gases oxigênio e hidrogênio. A composição exata da água
 só foi descoberta mais adiante, no início do século XIX, por Gay-Lussac
 e Humboldt, que observaram que são necessários dois volumes de gás
 hidrogênio e um de gás oxigênio para formar a água (de onde se origina
-a fórmula H2 O). Apesar desta longa tradição nos estudos da água, ainda
+a fórmula $H_2O$). Apesar desta longa tradição nos estudos da água, ainda
 hoje ela tem fascinado cientistas e pesquisadores: a estrutura molecular
 e as propriedades termodinâmicas de sua fase líquida, a existência de
 inúmeras ‘anomalias’ termodinâmica e cinéticas e a existência muitas
@@ -47,8 +48,7 @@ sido motivo de constantes debates na literatura científica.
 
 No que diz respeito às teorias sobre a vida e sua origem, a água tem
 caráter fundamental: todo ser vivo conhecido necessita de água líquida
-para manter sua atividade metabólica, mesmo que em quantidades ínfi-
-mas. Esta constatação também é observada no sentido oposto, ou seja,
+para manter sua atividade metabólica, mesmo que em quantidades ínfimas. Esta constatação também é observada no sentido oposto, ou seja,
 também se pode afirmar que, na Terra, a presença de água líquida sempre
 está associada à existência de alguma forma de vida, independentemente
 de quão extremas sejam as condições observadas.
@@ -62,13 +62,12 @@ compostos, e também por ser capaz de atuar tanto como ácido quanto
 como base, dependendo da reação química. As características químicas
 não usuais da água já a tornam um líquido peculiar, mas, além disso, a
 água também tem outras propriedades físicas não usuais. Algumas de
-suas propriedades termodinâmicas foram importantes para o apareci-
-mento da vida na Terra e continuam contribuindo para a sua manutenção.
+suas propriedades termodinâmicas foram importantes para o aparecimento da vida na Terra e continuam contribuindo para a sua manutenção.
 Uma dessas propriedades é o alto calor específico apresentado pela água
 na sua fase líquida. O calor específico de um material indica que variação
 da temperatura ele irá sofrer ao absorver ou perder certa quantidade de
 calor. No caso da água líquida, em condições ambientes de pressão e
-temperatura, seu calor específico é igual 1 g cal ∘C , que é um valor maior do
+temperatura, seu calor específico é igual $1 g cal^o C$  , que é um valor maior do
 que o observado em grande parte dos materiais conhecidos. Façamos
 uma comparação simples, mas interessante, notando que este número é
 aproximadamente 5 vezes maior do que aqueles tipicamente encontrados
@@ -80,11 +79,9 @@ calor por contato direto e pelas correntes atmosféricas de ar, a água
 acaba por absorver parte significativa do calor irradiado pela areia da
 praia, contribuindo para estabilizar a temperatura do ambiente.
 
-Considerando que 75% da superfície terrestre é coberta por ocea-
-nos, o alto calor específico da água atua como um fator importante na
+Considerando que 75% da superfície terrestre é coberta por oceanos, o alto calor específico da água atua como um fator importante na
 regulação da clima, estabilizando a temperatura em uma escala global
-e contribuindo, desta forma, para a manutenção da vida em nosso pla-
-neta. O alto calor específico da água também é um fator relevante para
+e contribuindo, desta forma, para a manutenção da vida em nosso planeta. O alto calor específico da água também é um fator relevante para
 o equilíbrio da temperatura interna dos seres vivos, por ser a principal
 substância na composição de seus corpos. Outra característica da água
 que é importante para a vida diz respeito ao fato de que, em condições
@@ -106,8 +103,7 @@ fase sólida da água fosse mais densa que sua fase líquida, o gelo iria se
 sedimentar no fundo dos oceanos possivelmente extinguindo as primeiras
 formas de vida logo no início da primeira era glacial. Um outro aspecto
 que torna interessante a existência de uma camada de gelo recobrindo a
-Terra tem a ver com o fato de que, segundo teorias atuais sobre a forma-
-ção estelar, estrelas da mesma classe que o Sol emitem muita radiação
+Terra tem a ver com o fato de que, segundo teorias atuais sobre a formação estelar, estrelas da mesma classe que o Sol emitem muita radiação
 ultravioleta em seus estágios iniciais, o que potencialmente poderia ser
 danoso para o aparecimento de vida complexa. Uma camada de gelo
 recobrindo a superfície do planeta poderia blindar formas de vida dos
@@ -120,11 +116,9 @@ da água são importantes para a vida na Terra. Além destas, a água tem
 várias propriedades físico-químicas intrigantes, como a diminuição da
 constante de difusão com o aumento da pressão, observado em certas
 condições, e a (possível) existência de uma transição entre dois líquidos
-distintos em baixas temperaturas. Muitas dessas características especi-
-ais da água, algumas das quais são denominadas de anômalas, têm sido
+distintos em baixas temperaturas. Muitas dessas características especiais da água, algumas das quais são denominadas de anômalas, têm sido
 motivo de investigação e debate científico na atualidade. Além disso, é
-importante ressaltar que a água permeia muitos aspectos da nossa soci-
-edade, incluindo saneamento, indústrias de transformação e transporte.
+importante ressaltar que a água permeia muitos aspectos da nossa sociedade, incluindo saneamento, indústrias de transformação e transporte.
 Tudo isso mostra a relevância da água como bem material, sendo uma
 boa razão para uma conscientização maior sobre o tema, chamando a
 atenção para a utilização e a reutilização adequada dessa substância em
@@ -133,7 +127,7 @@ nossa sociedade.
 ***
 
 Espero que tenham gostado do texto. 
-Sintam-se à vontade para utilizar o texto, mas lembrem-se de citar o livro
+Sintam-se à vontade para utilizar o texto, mas lembrem-se de citar o livro escrito pelos professores Leonardo e Olavo,
 ["Física para Ciências Agrárias e Ambientais"][fisica-agraria-ambiental].
 
 Abraço e até breve,
