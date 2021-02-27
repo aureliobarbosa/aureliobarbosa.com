@@ -55,7 +55,7 @@ Se você fizer a receita original e comparar, vai perceber que o leite dá um to
 Desmanchar o fermento em um copo de água morna por 20 minutos. Juntar os ingredientes secos e misturar bem, misturar os ingredientes molhados entre si e adicionar aos poucos à massa. Amassar bem, por pelo menos 10 minutos e formar uma pequena bola. Deixar a massa crescer até dobrar de tamanho (aprox. uma hora), se possível deixando em algum lugar abafado. Minha avó tinha o costume de deixar a massa sobre a mesa, numa bacia grande coberta com um lençol ou um pano velho. Em seguida, corta-se a massa em pedaços que possam fazer pães de tamanhos médios ou grandes, cilindrar ou esparramar com um rolo e enrola os pães e ir colocando eles em uma forma untada. Deixá-los crescer novamente por pelo menos uma hora. E colocar no forno pré-aquecido a 200ºC.
 
 Minha avó deixou uma orientação para deixar o pão 10 minutos em fogo alto e depois em fogo moderado de 25 a 30 minutos, ou até estar assado. Nunca fiz isso e os pães sempre ficaram ótimos... acho que um dia vou tentar.
-
++
 ***
 
 Abraço e até breve,
