@@ -12,6 +12,8 @@ Vou compartilhar uma tradição de família, que é a receita de pão da minha a
 costumo dizer que é a receita da bisa! Escrevi o texto que acompanha a receita faz alguns dias, espero que gostem e 
 experimentem a receita.
 
+<span>Photo by <a href="https://unsplash.com/@hectorfarahani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hector Farahani</a> on <a href="https://unsplash.com/s/photos/bread?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 ***
 
 Essa receita de pão minha avó fazia lá em Juara-MT, quando éramos crianças. Naquela época minha avó tinha 4 filhos morando em casa e minha mãe ia, juntamente comigo e minha irmã, visitá-la no período do final do ano. Meu avô passava a semana na chácara e o final de semana conosco, a vó era professora e todo mundo tinha que ajudar: como as crianças não podiam fugir pra pracinha, campo de futebol, clube, etc… como meus tios adolescentes faziam, a gente ficava com a tarefa de cilindrar o pão, moer café, quebrar castanhas …
@@ -20,7 +22,7 @@ A receita original é muito grande e acredito que dava para café da manhã e la
 É importante mencionar que eu recuperei esta receita do caderninho de receitas que minha mãe fez na adolescência. Na época ela apenas copiou a receita do caderno de receitas da minha avó, sendo que este se perdeu! Naquela época minha avó fazia essa receita de cabeça e nem é necessário dizer que não se usavam medidas padronizadas… copo era o copo da mesa e colher era colher de sopa bem cheia… também é interessante notar que minha avó já indicava a marca do Fermento… isso é muito engraçado, pois muitas receitas antigas usam fermento caseiro, mas minha avó era meio moderninha para a época.
 Hoje em dia faço essa receita, ou a minha adaptação dela, pelo menos uma vez por mês. 
 
-Ah, não posso deixar de dizer que a receita já está no caderninho de receitas da minha filha Elis!
+Ah, não posso deixar de dizer que a receita já está no caderninho de receitas da minha filha mais velha!
 
 ***
 
@@ -56,16 +58,8 @@ Desmanchar o fermento em um copo de água morna por 20 minutos. Juntar os ingred
 
 Minha avó deixou uma orientação para deixar o pão 10 minutos em fogo alto e depois em fogo moderado de 25 a 30 minutos, ou até estar assado. Nunca fiz isso e os pães sempre ficaram ótimos... acho que um dia vou tentar.
 
-
-
 ***
 
-<!-- Desde que vi uma palestra da programadora [Letícia Portella](https://leportella.com/) no [Python Brasil 2020](https://2020.pythonbrasil.org.br/), vinha pensado em marcar presença no mundo virtual e por fim decidi que deveria dar um primeiro passo criando este blog!
-
-Depois de pesquisar pela internet decidi utilizar um gerador de websites estáticos chamado [Jekyll][jekyll-website] e hospedar ele no GitHub Pages. Também comprei um domínio o [aureliobarbosa.com](https://aureliobarbosa.com) na plataforma [NameCheap](https://www.namecheap.com) e pretendo transferir o blog para lá, assim que ele estiver um pouco mais organizado e com algum conteúdo.
-
-Tem sido um processo de aprendizagem! Estou fazendo tudo isso bem  passo a passo e pretendo documentar todo o processo aqui para auxiliar outras pessoas que estiverem trilhando um caminho parecido e que precisem de ajuda!
- -->
 Abraço e até breve,
 
 Marco
