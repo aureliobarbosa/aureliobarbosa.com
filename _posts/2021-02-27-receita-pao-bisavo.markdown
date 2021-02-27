@@ -12,8 +12,6 @@ Vou compartilhar uma tradição de família, que é a receita de pão da minha a
 costumo dizer que é a receita da bisa! Escrevi o texto que acompanha a receita faz alguns dias, espero que gostem e 
 experimentem a receita.
 
-<span>Photo by <a href="https://unsplash.com/@hectorfarahani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hector Farahani</a> on <a href="https://unsplash.com/s/photos/bread?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
 ***
 
 Essa receita de pão minha avó fazia lá em Juara-MT, quando éramos crianças. Naquela época minha avó tinha 4 filhos morando em casa e minha mãe ia, juntamente comigo e minha irmã, visitá-la no período do final do ano. Meu avô passava a semana na chácara e o final de semana conosco, a vó era professora e todo mundo tinha que ajudar: como as crianças não podiam fugir pra pracinha, campo de futebol, clube, etc… como meus tios adolescentes faziam, a gente ficava com a tarefa de cilindrar o pão, moer café, quebrar castanhas …
@@ -64,4 +62,6 @@ Abraço e até breve,
 
 Marco
 
-[jekyll-website]: https://jekyllrb.com/
+*P.S.*: Assim que eu fizer novamente este pão tiro uma fotografia mais personalizada e coloco ela aqui!)
+<span>Photo by <a href="https://unsplash.com/@hectorfarahani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hector Farahani</a> on <a href="https://unsplash.com/s/photos/bread?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
