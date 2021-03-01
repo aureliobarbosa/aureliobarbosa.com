@@ -34,8 +34,7 @@ todo o material produzido neste espaço.
 - Introdução às Simulações de Monte Carlo
 - Introdução ao Sistema Operacional Linux (Ubuntu)
 
-*Créditos das fotografias*
+### *Créditos das fotografias*
 
-<span>Foto de capa por <a href="https://unsplash.com/@joaopedrovergara?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">João Pedro Vergara</a> via <a href="https://unsplash.com/s/photos/unb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash.</a></span>.
-
-Foto [Minhocão/UnB em Construção](https://atom.unb.br/index.php/00110).
+- <span>Foto de capa por <a href="https://unsplash.com/@joaopedrovergara?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">João Pedro Vergara</a> via <a href="https://unsplash.com/s/photos/unb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash.</a></span>.
+- Foto [Minhocão/UnB em Construção](https://atom.unb.br/index.php/00110).
