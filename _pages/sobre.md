@@ -11,7 +11,7 @@ Olá, sou Marco Aurélio Barbosa e este é meu blog profissional e pessoal. Aqui
 
 *Atuação Academica*
 
-Caso esteja interessado em acessar minha produção acadêmica, veja meu [Curriculo Lattes][cv-lattes].
+Caso esteja interessado em saber mais sobre minha produção acadêmica veja meu [Curriculo Lattes][cv-lattes].
 
 Em 2008 obtive meu doutorado em Física na Universidade de São Paulo e atuo desde 2010 como professor na [Faculdade UnB Planaltina](https://fup.unb.br), que é um campus da  [Universidade de Brasília](https://www.unb.br).  
 
