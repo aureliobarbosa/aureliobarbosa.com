@@ -23,14 +23,14 @@ Caso esteja interessado em saber mais sobre minha produção acadêmica veja meu
 ***
 
 - Marcia Cristina Bernardes Barbosa, [Home Page](https://www.if.ufrgs.br/~barbosa/)
-- Fernando Albuquerque Oliveira, [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787698E6)
+- Fernando Albuquerque Oliveira, [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787698E6)
 
 ### Orientandos e ex-orientandos (pós-graduação apenas)
 ***
 
 - [Eduardo Ozório Rizzatti](http://lattes.cnpq.br/9776753274036815)
     - Doutorado em física, UFRGS; co-orientação em andamento.
-- Marcio Sampaio Gomes Filho, [CV Lattes](http://lattes.cnpq.br/4247706975206030), [Homepage](https://www.setubal.net.br/)
+- [Marcio Sampaio Gomes Filho](http://lattes.cnpq.br/4247706975206030), [Homepage](https://www.setubal.net.br/)
     - Doutorado em Física, UnB (2020); co-orientação;
     - Iniciação Científica, UnB (2013).
 - [Jangley Bahia Costa](http://lattes.cnpq.br/8061758635546185)
