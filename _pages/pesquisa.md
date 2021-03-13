@@ -44,7 +44,7 @@ Caso esteja interessado em saber mais sobre minha produção acadêmica veja meu
 - [Juaci Vitória Malaquias](https://www.embrapa.br/equipe/-/empregado/333881/juaci-vitoria-malaquias)
     - Mestrado em Ciência de Materiais, UnB (2014).
 
-### Ex-orientadores/Supervisores
+### Ex-orientadores ou ex-supervisores
 ***
 
 - Marcia Cristina Bernardes Barbosa (pós-doutorado, UFRGS).
