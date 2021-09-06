@@ -19,14 +19,14 @@ que define tipos de dados apropriados para a representação de corpos celestes 
 em um contexto mais amplo, tendo a nossa galáxia como referência. 
 
 Pode parecer complicado mas a Astropy possui uma série de [tutoriais](https://learn.astropy.org/tutorials.html) 
-que estão me ajudando bastante a aprender a utilizá-la. 
-
+que estão me ajudando bastante a aprender a utilizá-la. Como um exemplo, no Tutorial [Astronomical Coordinates 2](https://learn.astropy.org/rst-tutorials/2-Coordinates-Transforms.html?highlight=filtertutorials), ensina-se a fazer a transformação entre o sistema
+de coordenadas ICRS (International Celestial Reference System) e o sistema de coordenadas Galactico, gerando as duas figuras indicadas abaixo. 
 
 ![ICRS](https://learn.astropy.org/_images/2-Coordinates-Transforms_33_1.png)
 
 ![Galactic](https://learn.astropy.org/_images/2-Coordinates-Transforms_45_1.png)
 
-Vamos ver, assim que sair alguma coisa do forno, posto aqui.
+Então vamos lá, mãos à obra! Assim que sair alguma coisa do forno, posto aqui.
 
 ![Astropy](/images/astropy_project_logo.svg)
 
