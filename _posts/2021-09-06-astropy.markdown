@@ -1,10 +1,11 @@
+---
+layout: post
 title:  "Uma introdução à biblioteca python Astropy!"
 date:   2021-09-06 00:0:00 -0300
 image: astropy_project_logo.svg
 tags: python astropy
 ---
-
-Olá pessoal, hoje vou falar sobre o (Astropy)[astropy], que é uma biblioteca em python para astronomia. 
+Olá pessoal, hoje vou falar sobre o (Astropy)[astropy], que é uma biblioteca em Python para astronomia. 
 
 Um dos objetivos do astropy é promover a interoperabilidade e usabilidade, facilitando colaborações entre diferentes 
 grupos de pesquisa diversos temas da astronomia.
