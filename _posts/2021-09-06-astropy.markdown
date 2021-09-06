@@ -1,18 +1,16 @@
 ---
 layout: post
-title:  "Uma introdução à biblioteca python Astropy!"
+title:  "A biblioteca python Astropy"
 date:   2021-09-06 00:0:00 -0300
 image: astropy_project_logo.svg
-tags: python astropy
+tags: divulgação python astropy
 ---
-Olá pessoal, hoje vou falar sobre o (Astropy)[astropy], que é uma biblioteca em Python para astronomia. 
+Olá pessoal, hoje vou falar brevemente sobre o [Astropy][astropy], que é uma biblioteca em Python para astronomia. Por enquanto estou apenas divulgando a biblioteca e colocando algumas informações para que eu possa utilizar posteriormente.
 
 Um dos objetivos do astropy é promover a interoperabilidade e usabilidade, facilitando colaborações entre diferentes 
 grupos de pesquisa diversos temas da astronomia.
-No momento em que escrevo esta postagem a biblioteca Astropy está em sua versão 4.3 e possui um conjunto de sub-pacotes que, embora sejam independentes,
-devem ser utilizados de forma concomitante no desenvolvimento de projetos em astronomia. A lista completa de pacotes e mais informações 
-podem ser encontradas na [documentação do projeto](https://docs.astropy.org/en/stable/#project-details), mas vale mencionar 
-que existem pacotes para definir estruturas de dados padronizadas e transformações entre estas estruturas, incluindo  definição de unidades astronomicas (astropy.units), sistemas de coordenadas no espaço (astropy.coordinates) e na Terra (astropy.wcs), visualização de dados (astropy.visualization), além de pacotes em cosmologia, estatística e utilitários para manipulação de dados com 
+No momento em que escrevo esta postagem a biblioteca Astropy está em sua versão 4.3 e possui um conjunto de sub-pacotes que, embora sejam independentes, devem ser utilizados de forma concomitante no desenvolvimento de projetos em astronomia. A lista completa 
+de pacotes e mais informações podem ser encontradas na [documentação do projeto](https://docs.astropy.org/en/stable/#project-details), mas vale mencionar que existem pacotes para definir estruturas de dados padronizadas e transformações entre estas estruturas, incluindo  definição de unidades astronomicas (astropy.units), sistemas de coordenadas no espaço (astropy.coordinates) e na Terra (astropy.wcs), visualização de dados (astropy.visualization), além de pacotes em cosmologia, estatística e utilitários para manipulação de dados com 
 especificações típicas da área de astronomia. 
 
 Em outro momento irei discutir um pouco mais sobre a colaboração em que pretendo utilizar este pacote, mas adianto que, 
@@ -20,10 +18,10 @@ em uma parte do  projeto visualizamos órbitas planetárias e para isso temos qu
 que define tipos de dados apropriados para a representação de corpos celestes na vizinhança do sistema solar ou então, 
 em um contexto mais amplo, tendo a nossa galáxia como referência. 
 
-O tema pode parecer complicado mas o pacote astropy possui uma série de [tutoriais](https://learn.astropy.org/tutorials.html) 
-que ajudam bastante. 
+Pode parecer complicado mas a Astropy possui uma série de [tutoriais](https://learn.astropy.org/tutorials.html) 
+que estão me ajudando bastante a aprender a utilizá-la. 
 
-Assim que sair alguma coisa do forno, posto aqui. 
+Vamos ver, assim que sair alguma coisa do forno, posto aqui.
 
 ---
 
