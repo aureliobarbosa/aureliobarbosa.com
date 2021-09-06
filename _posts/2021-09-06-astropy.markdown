@@ -22,8 +22,9 @@ Pode parecer complicado mas a Astropy possui uma série de [tutoriais](https://l
 que estão me ajudando bastante a aprender a utilizá-la. 
 
 
-![ICRS][https://learn.astropy.org/_images/2-Coordinates-Transforms_33_1.png]
-![Galactic][https://learn.astropy.org/_images/2-Coordinates-Transforms_45_1.png]
+![ICRS](https://learn.astropy.org/_images/2-Coordinates-Transforms_33_1.png)
+
+![Galactic](https://learn.astropy.org/_images/2-Coordinates-Transforms_45_1.png)
 
 Vamos ver, assim que sair alguma coisa do forno, posto aqui.
 
